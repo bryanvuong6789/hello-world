@@ -36,14 +36,6 @@ int main()
   else {
     std::cout << "Money 4 not EQUALS to Money 5" << '\n';
   }
-  // Output should look like
-  //  
-  //
-  //
-  //
-  //
-  //
-  //
   return 0;
 }
 
